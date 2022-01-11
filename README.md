@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cogito1016&exclude_repo=hello-world,Java-using-GUI,Adapting-C-,Java-using-gui-2-,Java-study-using-git-hub,BigData_CarAccident,NodeJS_Tutorial,coreJava_XML,DataVirtualization,Node-DB-,Auction_CloneCoding,JavaScript_tutorial,Arduino_Study)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **cogito1016/cogito1016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
