@@ -1,3 +1,11 @@
+
+<img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/npm/types/typescript?label=%20&style=flat-square&logo=TypeScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cogito1016&layout=compact&exclude_repo=hello-world,Java-using-GUI,Adapting-C-,Java-using-gui-2-,Java-study-using-git-hub,BigData_CarAccident,NodeJS_Tutorial,coreJava_XML,DataVirtualization,Node-DB-,Auction_CloneCoding,JavaScript_tutorial,Arduino_Study)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
