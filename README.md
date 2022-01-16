@@ -4,7 +4,9 @@
 <img src="https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
 <br/>
+<img src="https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Spring-%236DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-JPA-%236DB33F?style=flat-square"/></a>
 
 
 
