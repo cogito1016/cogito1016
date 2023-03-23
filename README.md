@@ -15,7 +15,7 @@
 <a><img src="https://img.shields.io/badge/-Nest-%23D6204A?style=flat-square&logo=NestJS&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/-svelte-%23FF3E00?style=flat-square&logo=Svelte&logoColor=white"/></a>
 
-<p>~2022.1</p>
+<p>~2022.12</p>
 <br/>
 
 <a><img src="https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=React&logoColor=white"/></a>
