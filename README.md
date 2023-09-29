@@ -1,3 +1,5 @@
+기술문서 : https://cogito1016.github.io/
+
 <p>BASE</p>
 
 <a><img src="https://img.shields.io/badge/-AWS-%23232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
