@@ -5,6 +5,12 @@
 <a><img src="https://img.shields.io/badge/-AWS-%23232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 <br />
 
+<p>2024.05~</p>
+
+<a><img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/-Nest-%23D6204A?style=flat-square&logo=NestJS&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+
 <p>2022.12~</p>
 
 <a><img src="https://img.shields.io/badge/-Nest-%23D6204A?style=flat-square&logo=NestJS&logoColor=white"/></a>
