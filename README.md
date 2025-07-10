@@ -26,7 +26,11 @@
 <a><img src="https://img.shields.io/badge/-JPA-%236DB33F?style=flat-square"/></a>
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cogito1016&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 현재 진행 상황 -->
+![GitHub Stats](https://github-readme-stats-lime-rho-qpw0z8mgxw.vercel.app/api?username=cogito1016&show_icons=true&theme=radical&count_private=true&custom_title=2025%20Learning%20Journey)
+
+<!-- 언어 다양성 표시 -->
+![Top Languages](https://github-readme-stats-lime-rho-qpw0z8mgxw.vercel.app/api/top-langs/?username=cogito1016&count_private=true&layout=donut&langs_count=8&theme=radical&hide=css)
 
 <!--
 기술 배찌 : https://shields.io/
