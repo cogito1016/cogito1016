@@ -27,10 +27,10 @@
 <br />
 
 <!-- 현재 진행 상황 -->
-![GitHub Stats](https://github-readme-stats-lime-rho-qpw0z8mgxw.vercel.app/api?username=cogito1016&show_icons=true&theme=radical&count_private=true&custom_title=Backend%20Developer)
+![GitHub Stats](https://github-readme-stats-lime-rho-qpw0z8mgxw.vercel.app/api?username=cogito1016&show_icons=true&theme=radical&count_private=true&custom_title=Backend%20Developer&cache_seconds=3600)
 
 <!-- 언어 다양성 표시 -->
-![Top Languages](https://github-readme-stats-lime-rho-qpw0z8mgxw.vercel.app/api/top-langs/?username=cogito1016&count_private=true&layout=donut&langs_count=8&theme=radical&hide=css)
+![Top Languages](https://github-readme-stats-lime-rho-qpw0z8mgxw.vercel.app/api/top-langs/?username=cogito1016&count_private=true&layout=donut&langs_count=8&theme=radical&hide=css&cache_seconds=3600)
 
 <!--
 기술 배찌 : https://shields.io/
